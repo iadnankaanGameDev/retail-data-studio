@@ -1,0 +1,23 @@
+[
+  {
+    "path": "_internal\\PySide6\\Qt6OpenGLWidgets.dll",
+    "sha256": "18a96c26211d3487a895679d3ad72b79af3a0a18664c0def63cb519e749176fe",
+    "status": "Official 6.12.0 wheel match; unnecessary for accepted clean payload; LGPL source/build and customer-rights conditions still apply",
+    "official_wheel": "pyside6_essentials-6.12.0-cp310-abi3-win_amd64.whl",
+    "official_wheel_match": true
+  },
+  {
+    "path": "_internal\\PySide6\\QtOpenGL.pyd",
+    "sha256": "a4ac55aebb12b5a5730d6e168a9689afcad4a8b13158fa9d8010084cadd79fd7",
+    "status": "Official 6.12.0 wheel match; unnecessary for accepted clean payload; LGPL source/build and customer-rights conditions still apply",
+    "official_wheel": "pyside6_essentials-6.12.0-cp310-abi3-win_amd64.whl",
+    "official_wheel_match": true
+  },
+  {
+    "path": "_internal\\PySide6\\QtOpenGLWidgets.pyd",
+    "sha256": "522ac19342b007af27051eb69ad9f2e57edc72d9bdc9dd9198c6cce9d47bca9e",
+    "status": "Official 6.12.0 wheel match; unnecessary for accepted clean payload; LGPL source/build and customer-rights conditions still apply",
+    "official_wheel": "pyside6_essentials-6.12.0-cp310-abi3-win_amd64.whl",
+    "official_wheel_match": true
+  }
+]

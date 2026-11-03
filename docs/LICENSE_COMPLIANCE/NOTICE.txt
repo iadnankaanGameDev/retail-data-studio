@@ -1,0 +1,13 @@
+Retail Data Studio V2.5 uses Qt/PySide6/Shiboken libraries under an intended LGPLv3 route.
+The libraries and their use are covered by the applicable LGPL terms.
+See LGPL-3.0-only.txt, GPL-3.0-only.txt and original copyright notices.
+The application itself is not automatically licensed by these dependency texts.
+
+Includes software developed by the FreeType Project (https://www.freetype.org/).
+Includes Qhull; the original Qhull software is available from https://www.qhull.org/.
+Original component notices, including fonts and image codecs, are preserved here.
+
+SOURCE_ACCESS.md explains the supplied source archives.
+LGPL_REPLACEMENT_INSTRUCTIONS.md explains replacement rights and technical steps.
+LICENSE_CLOSURE.md lists remaining conditions. DISTRIBUTION HOLD remains in effect.
+The Setup must not be distributed alone as if this supplement were embedded.

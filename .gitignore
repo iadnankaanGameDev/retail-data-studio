@@ -1,0 +1,63 @@
+# Environments and caches
+.venv*/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+# Build and test outputs
+build/
+dist/
+artifacts/
+*.egg-info/
+# Private application data and generated reports
+data/
+projects/
+quarantine/
+logs/
+reports/
+*.log
+*.db
+*.db-*
+*.sqlite*
+*.rdsbackup
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+# CSV files are private unless explicitly reviewed synthetic examples
+*.csv
+!examples/products.csv
+!examples/stores.csv
+!examples/sales_sample.csv
+# Editor and OS metadata
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Distributions must not be committed
+*.exe
+*.dll
+*.pyd
+*.whl
+*.zip
+*.7z
+*.tar.xz
+
+# Local cleanup inventories contain absolute machine paths
+docs/CLEANUP_*.json
+docs/CLEANUP_*.txt
+docs/CLEANUP_APPROVAL.md
+docs/CLEANUP_TESTS.log
+
+# Explicitly reviewed license inventories
+!docs/native-license-inventory.csv
+!docs/LICENSE_COMPLIANCE/NATIVE_LICENSE_MATRIX.csv
+!docs/LICENSE_COMPLIANCE/QT_SOURCE_ATTRIBUTIONS.csv

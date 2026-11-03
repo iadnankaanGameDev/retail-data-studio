@@ -1,0 +1,4 @@
+Retail Data Studio V2.5
+Keep the entire portable folder together. Open RetailDataStudio.exe.
+See QUICK_START.md for the synthetic demo and backup scope.
+The Setup distribution is a separate single-file installer.

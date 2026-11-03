@@ -1,0 +1,107 @@
+{
+  "url": "https://www.python.org/ftp/python/3.12.9/python-3.12.9-embed-amd64.zip",
+  "sha256": "615861fb801e8b04c847598db4e1e46e4b046295017caa37cb5486dde72b5865",
+  "official_release_md5_matches": true,
+  "binary_matches": [
+    {
+      "path": "libcrypto-3.dll",
+      "matches": true
+    },
+    {
+      "path": "libffi-8.dll",
+      "matches": true
+    },
+    {
+      "path": "libssl-3.dll",
+      "matches": true
+    },
+    {
+      "path": "pyexpat.pyd",
+      "matches": true
+    },
+    {
+      "path": "python3.dll",
+      "matches": true
+    },
+    {
+      "path": "python312.dll",
+      "matches": true
+    },
+    {
+      "path": "select.pyd",
+      "matches": true
+    },
+    {
+      "path": "sqlite3.dll",
+      "matches": true
+    },
+    {
+      "path": "unicodedata.pyd",
+      "matches": true
+    },
+    {
+      "path": "_asyncio.pyd",
+      "matches": true
+    },
+    {
+      "path": "_bz2.pyd",
+      "matches": true
+    },
+    {
+      "path": "_ctypes.pyd",
+      "matches": true
+    },
+    {
+      "path": "_decimal.pyd",
+      "matches": true
+    },
+    {
+      "path": "_elementtree.pyd",
+      "matches": true
+    },
+    {
+      "path": "_hashlib.pyd",
+      "matches": true
+    },
+    {
+      "path": "_lzma.pyd",
+      "matches": true
+    },
+    {
+      "path": "_multiprocessing.pyd",
+      "matches": true
+    },
+    {
+      "path": "_overlapped.pyd",
+      "matches": true
+    },
+    {
+      "path": "_queue.pyd",
+      "matches": true
+    },
+    {
+      "path": "_socket.pyd",
+      "matches": true
+    },
+    {
+      "path": "_sqlite3.pyd",
+      "matches": true
+    },
+    {
+      "path": "_ssl.pyd",
+      "matches": true
+    },
+    {
+      "path": "_uuid.pyd",
+      "matches": true
+    },
+    {
+      "path": "_wmi.pyd",
+      "matches": true
+    },
+    {
+      "path": "_zoneinfo.pyd",
+      "matches": true
+    }
+  ]
+}

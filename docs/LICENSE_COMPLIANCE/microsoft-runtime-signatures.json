@@ -1,0 +1,86 @@
+[
+  {
+    "path": "_internal/numpy.libs/msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll",
+    "version": "14.40.33810.0",
+    "signature_status": "Valid",
+    "signer": "CN=Microsoft Windows Software Compatibility Publisher, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "sha256": "a4c2229bdc2a2a630acdc095b4d86008e5c3e3bc7773174354f3da4f5beb9cde"
+  },
+  {
+    "path": "_internal/pandas.libs/msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll",
+    "version": "14.40.33810.0",
+    "signature_status": "Valid",
+    "signer": "CN=Microsoft Windows Software Compatibility Publisher, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "sha256": "a4c2229bdc2a2a630acdc095b4d86008e5c3e3bc7773174354f3da4f5beb9cde"
+  },
+  {
+    "path": "_internal/PySide6/MSVCP140.dll",
+    "version": "14.44.35211.0",
+    "signature_status": "Valid",
+    "signer": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "sha256": "f6f1d55bfd64027820ddce48f9cd8cf46d53bfa34047e6acf4ef348d492a05cb"
+  },
+  {
+    "path": "_internal/PySide6/MSVCP140_1.dll",
+    "version": "14.44.35211.0",
+    "signature_status": "Valid",
+    "signer": "CN=The QT Company Oy, O=The QT Company Oy, L=Espoo, S=Uusimaa, C=FI, SERIALNUMBER=2637805-2, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.3=FI",
+    "sha256": "2be87527c41e1ba8aff48e326e0adcd4743516e0bbcc9304986c726e27de6aca"
+  },
+  {
+    "path": "_internal/PySide6/MSVCP140_2.dll",
+    "version": "14.44.35211.0",
+    "signature_status": "Valid",
+    "signer": "CN=The QT Company Oy, O=The QT Company Oy, L=Espoo, S=Uusimaa, C=FI, SERIALNUMBER=2637805-2, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.3=FI",
+    "sha256": "6a72ed8a87eae1671640bd1ca98eccb989f1772ae46ab84594e385bf6d4ac4fb"
+  },
+  {
+    "path": "_internal/PySide6/VCRUNTIME140.dll",
+    "version": "14.44.35211.0",
+    "signature_status": "Valid",
+    "signer": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "sha256": "a36e0cb185eb89533ed96d4568138f86a1315756a8b2644c5963a8ce23e32101"
+  },
+  {
+    "path": "_internal/PySide6/VCRUNTIME140_1.dll",
+    "version": "14.44.35211.0",
+    "signature_status": "Valid",
+    "signer": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "sha256": "302b1e160e858602490a55e32ae2e29ddfc0bec2a188e19550cb655cdaa58f9c"
+  },
+  {
+    "path": "_internal/shiboken6/MSVCP140.dll",
+    "version": "14.44.35211.0",
+    "signature_status": "Valid",
+    "signer": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "sha256": "1ba4d7c0a95d375da138a057a57593b33510ad5bda6c5e2686afd68faa5b4231"
+  },
+  {
+    "path": "_internal/shiboken6/VCRUNTIME140.dll",
+    "version": "14.44.35211.0",
+    "signature_status": "Valid",
+    "signer": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "sha256": "e7be9112ee9a5b9f44b44bff24cb761cca9b1ed7550b612f77b70edfcf5fdabf"
+  },
+  {
+    "path": "_internal/shiboken6/VCRUNTIME140_1.dll",
+    "version": "14.44.35211.0",
+    "signature_status": "Valid",
+    "signer": "CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "sha256": "f02cd4a862b85a9a3153d27e15e5a213f5df8e3d77004ed2e87b8a7e8873d97c"
+  },
+  {
+    "path": "_internal/VCRUNTIME140.dll",
+    "version": "14.42.34226.3",
+    "signature_status": "Valid",
+    "signer": "CN=Microsoft Windows Software Compatibility Publisher, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "sha256": "36585912e5eaf83ba9fea0631534f690ccdc2d7ba91537166fe53e56c221e153"
+  },
+  {
+    "path": "_internal/VCRUNTIME140_1.dll",
+    "version": "14.42.34226.3",
+    "signature_status": "Valid",
+    "signer": "CN=Microsoft Windows Software Compatibility Publisher, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "sha256": "82a2f9ae1e6146ae3cb0f4bc5a62b7227e0384209d9b1aef86bbcc105912f7cd"
+  }
+]

@@ -1,0 +1,11 @@
+Retail Data Studio V2.5
+
+Program: %LOCALAPPDATA%\Programs\RetailDataStudio
+Projects: %LOCALAPPDATA%\RetailDataStudio\RetailDataStudio\data\projects
+
+Setup and uninstall do not delete your projects, SQLite databases or backups.
+Keep the same Windows account when updating. Close the application before updating.
+No database schema migration is performed in V2.5. V2.4 projects and backups remain compatible.
+Use Projects > Backup Project before updates. Restore Project always creates a new ID.
+Backups contain sales, catalogs, project settings and a manifest, but not processing history,
+source CSV files, logs, quarantine or old reports. Preserve those separately when needed.
